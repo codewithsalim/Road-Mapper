@@ -7,8 +7,14 @@ We propose an approach that directly estimates road topology from aerial images.
 
 We then propose an algorithm that reasons about missing connections in the extracted road topology as a shortest path problem that can be solved efficiently.
 
-Sample Input: Aerial Image
-![Aeril Image](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+**Sample Input:** Aerial Image
 
-Sample Output:
-![Output](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+<img align="left" alt="Aerial Image" width="250px" src=https://github.com/codewithsalim/Road-Mapper/blob/main/resources/input_sample/input_image.png>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+**Sample Output:** Target Map and final output
+
+<img align="left" alt="Aerial Image" width="250px" src=https://github.com/codewithsalim/Road-Mapper/blob/main/resources/output_sample/output_target_map.png>
+<img align="left" alt="Aerial Image" width="250px" src=https://github.com/codewithsalim/Road-Mapper/blob/main/resources/output_sample/output_imposed_on_image.png>
+
